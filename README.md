@@ -1,4 +1,4 @@
-# liquidswipeanimation
+# Liquid Swipe Animation
 
 A new Flutter project.
 
