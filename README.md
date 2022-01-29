@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Demo -
+
+https://user-images.githubusercontent.com/51513908/150685621-130707fe-cf27-42ae-9126-a780df0dfb43.mp4
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -17,9 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 
 Asset Images Credit: Zedge.com
 
-
-Preview -
-
-
-https://user-images.githubusercontent.com/51513908/150685621-130707fe-cf27-42ae-9126-a780df0dfb43.mp4
 
